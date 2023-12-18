@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-times-new-roman: "Times New Roman";
+  --font-content: Content;
+  --font-copperplate-gothic-bold: "Copperplate Gothic Bold";
+  --font-inter: Inter;
+  --font-abhaya-libre-medium: "Abhaya Libre Medium";
+  --font-constantia: Constantia;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-aliceblue: #e3f2ff;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkslateblue: #131f4b;
+  --color-gray-100: #03072f;
+
+  /* Gaps */
+  --gap-4xs: 9px;
+  --gap-11xl: 30px;
+}
